@@ -2,3 +2,11 @@ body {
   margin: 0;
   padding: 0;
 }
+.testimonial {
+  margin: 10px;
+  background-color: cadetblue;
+}
+.testimonial__photo {
+  margin-bottom: 5px;
+  width: 130px;
+}
