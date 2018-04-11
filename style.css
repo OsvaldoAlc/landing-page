@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
 }
+
 .testimonial {
   margin: 10px;
   background-color: cadetblue;
@@ -9,4 +10,12 @@ body {
 .testimonial__photo {
   margin-bottom: 5px;
   width: 130px;
+}
+
+.hero {
+  background-image: url('https://cdn-pro.elsalvador.com/wp-content/uploads/2017/03/15015829/1489448577980.jpg');
+  height: 95vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
 }
